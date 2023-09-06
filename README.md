@@ -7,7 +7,7 @@
 
 <h2>🎓 University of Florida Information Systems Projects:</h2>
 
-  - [Java Final Project](https://github.com/NicholasOspina1/JavaFinalProject/tree/main)
+  - [Java Final Project (ISM3254)](https://github.com/NicholasOspina1/JavaFinalProject/tree/main)
 
 
 <h2>📄 Certifications</h2>
