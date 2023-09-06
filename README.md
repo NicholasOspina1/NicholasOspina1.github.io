@@ -8,6 +8,9 @@
 <h2>🎓 University of Florida Information Systems Projects:</h2>
 
   - [Java Final Project (ISM3254)](https://github.com/NicholasOspina1/JavaFinalProject/tree/main)
+  - [Java Project: A Letter To Yourself (ISM3254)](https://github.com/NicholasOspina1/JavaProjectALetterToYourself)
+  - [Java Project: Multiplication Table (ISM3254)](https://github.com/NicholasOspina1/JavaProjectMultiplicationTable)
+  - [SQL Project: DDL & DML (ISM4210)](https://github.com/NicholasOspina1/SQLProjectDDLandDML)
 
 
 <h2>📄 Certifications</h2>
