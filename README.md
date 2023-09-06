@@ -1,8 +1,8 @@
-<h1>Hi, I'm Nicholas! <br/><a href="https://github.com/NicholasOspina1.github.io">Cybersecurity Portfolio</a>, <a href="https://www.linkedin.com/in/nicholas-ospina-/">Information Systems Graduate</a></h1>
+<h1>Hi, I'm Nicholas! <br/><a href="></a>, <a href="https://www.linkedin.com/in/nicholas-ospina-/">Information Systems Graduate</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Conducting a Security Audit](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Conducting a Security Audit](https://github.com/NicholasOspina1/SecurityAudit)
 
 
 <h2>📄 Certifications</h2>
