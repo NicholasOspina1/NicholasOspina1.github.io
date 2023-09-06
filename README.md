@@ -11,6 +11,7 @@
   - [Java Project: A Letter To Yourself (ISM3254)](https://github.com/NicholasOspina1/JavaProjectALetterToYourself)
   - [Java Project: Multiplication Table (ISM3254)](https://github.com/NicholasOspina1/JavaProjectMultiplicationTable)
   - [SQL Project: DDL & DML (ISM4210)](https://github.com/NicholasOspina1/SQLProjectDDLandDML)
+  - [Python Projects (QMB3302)](https://github.com/NicholasOspina1/PythonProjects)
 
 
 <h2>📄 Certifications</h2>
