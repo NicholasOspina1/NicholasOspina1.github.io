@@ -5,6 +5,11 @@
   - [Conducting a Security Audit](https://github.com/NicholasOspina1/SecurityAudit)
 
 
+<h2>🎓 University of Florida Information Systems Projects:</h2>
+
+  - [Java Final Project](https://github.com/NicholasOspina1/JavaFinalProject/tree/main)
+
+
 <h2>📄 Certifications</h2>
 
 - [Google Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/58PS8HHG9NVB)
