@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nicholas! <br/><a href="></a>, <a href="https://www.linkedin.com/in/nicholas-ospina-/">Information Systems Graduate</a></h1>
+<h1>Hi, I'm Nicholas! <br/><a href="https://www.linkedin.com/in/nicholas-ospina-/">Information Systems Graduate</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
