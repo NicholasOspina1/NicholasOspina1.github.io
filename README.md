@@ -16,8 +16,8 @@
 
 <h2>📄 Certifications</h2>
 
-- [Google Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/58PS8HHG9NVB)
-
+- [Google: Foundations of Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/verify/58PS8HHG9NVB)
+- [Google: Manage Security Risks Certificate](https://www.coursera.org/account/accomplishments/verify/YDEKD64QWTG6)
 
 <h2> 🤳 Connect with me:</h2>
 
