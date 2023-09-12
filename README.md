@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Conducting a Security Audit](https://github.com/NicholasOspina1/SecurityAudit)
-
+  - [Cybersecurity Incident Report: Network Traffic Analysis](https://github.com/NicholasOspina1/CybersecurityIncidentReport)
 
 <h2>🎓 University of Florida Information Systems Projects:</h2>
 
