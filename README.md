@@ -18,6 +18,7 @@
 
 - [Google: Foundations of Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/verify/58PS8HHG9NVB)
 - [Google: Manage Security Risks Certificate](https://www.coursera.org/account/accomplishments/verify/YDEKD64QWTG6)
+- [Google: Networks and Network Security Certificate](https://www.coursera.org/account/accomplishments/verify/TARTPB5MHR3Q)
 
 <h2> 🤳 Connect with me:</h2>
 
