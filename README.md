@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Managing File Permissions using Linux Commands](https://github.com/NicholasOspina1/ManagingFilePermissionsLinux)
+  - [Managing File Permissions Using Linux Commands](https://github.com/NicholasOspina1/ManagingFilePermissionsLinux)
   - [Conducting a Security Audit](https://github.com/NicholasOspina1/SecurityAudit)
   - [NIST CSF Security Incident Report](https://github.com/NicholasOspina1/NISTSecurityIncidentReport)
   - [Cybersecurity Incident Report: Network Traffic Analysis using TCPDUMP](https://github.com/NicholasOspina1/CybersecurityIncidentReport)
