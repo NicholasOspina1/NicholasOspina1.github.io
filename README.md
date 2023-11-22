@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Managing File Permissions Using Linux Commands](https://github.com/NicholasOspina1/ManagingFilePermissionsLinux)
-  - [Applying filters to SQL queries](https://github.com/NicholasOspina1/SQLFilteringQueries)
+  - [Applying Filters to SQL Queries](https://github.com/NicholasOspina1/SQLFilteringQueries)
   - [Conducting a Security Audit](https://github.com/NicholasOspina1/SecurityAudit)
   - [NIST CSF Security Incident Report](https://github.com/NicholasOspina1/NISTSecurityIncidentReport)
   - [Cybersecurity Incident Report: Network Traffic Analysis using TCPDUMP](https://github.com/NicholasOspina1/CybersecurityIncidentReport)
