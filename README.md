@@ -4,6 +4,7 @@
 
   - [Managing File Permissions Using Linux Commands](https://github.com/NicholasOspina1/ManagingFilePermissionsLinux)
   - [Applying Filters to SQL Queries](https://github.com/NicholasOspina1/SQLFilteringQueries)
+  - [Vulnerability Assessment Report](https://github.com/NicholasOspina1/VulnerabilityAssessmentReport)
   - [Conducting a Security Audit](https://github.com/NicholasOspina1/SecurityAudit)
   - [NIST CSF Security Incident Report](https://github.com/NicholasOspina1/NISTSecurityIncidentReport)
   - [Cybersecurity Incident Report: Network Traffic Analysis using TCPDUMP](https://github.com/NicholasOspina1/CybersecurityIncidentReport)
