@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Managing File Permissions Using Linux Commands](https://github.com/NicholasOspina1/ManagingFilePermissionsLinux)
+  - [Updating a File Through a Python Algorithm](https://github.com/NicholasOspina1/FileUpdatePython)
   - [Applying Filters to SQL Queries](https://github.com/NicholasOspina1/SQLFilteringQueries)
   - [Vulnerability Assessment Report](https://github.com/NicholasOspina1/VulnerabilityAssessmentReport)
   - [Conducting a Security Audit](https://github.com/NicholasOspina1/SecurityAudit)
