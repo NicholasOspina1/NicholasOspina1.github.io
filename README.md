@@ -24,6 +24,11 @@
 - [Google: Foundations of Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/verify/58PS8HHG9NVB)
 - [Google: Manage Security Risks Certificate](https://www.coursera.org/account/accomplishments/verify/YDEKD64QWTG6)
 - [Google: Networks and Network Security Certificate](https://www.coursera.org/account/accomplishments/verify/TARTPB5MHR3Q)
+- [Google: Linux and SQL Certificate](https://www.coursera.org/account/accomplishments/verify/QTTU28ZPZN8Q)
+- [Google: Assets, Threats, and Vulnerabilities Certificate](https://www.coursera.org/account/accomplishments/verify/6ASSS6LKK72U)
+- [Google: Detection and Response Certificate](https://www.coursera.org/account/accomplishments/verify/ZTDQMND55TFM)
+- [Google: Automate Cybersecurity Tasks with Python Certificate](https://www.coursera.org/account/accomplishments/verify/TY5W4TTS8BVD)
+
 
 <h2> 🤳 Connect with me:</h2>
 
